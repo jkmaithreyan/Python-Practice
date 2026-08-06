@@ -9,7 +9,7 @@ salaries_array = np.array(employees_salaries)
 
 high_salary = salaries_array[salaries_array >= 30000]
 low_salary = salaries_array[salaries_array < 30000]
-inclusive = salaries_array[(salaries_array >= 30000) & (salaries_array =< 50000)]
+inclusive = salaries_array[(salaries_array >= 30000) & (salaries_array <= 50000)]
 
 print(f"Original salaries: {salaries_array}")
 print(f"high salaries: {high_salary}")
