@@ -9,7 +9,7 @@ for i in range(1, 9):
 marks_array = np.array(marks)
 
 excellent_marks = marks_array[marks_array >= 80]
-average_marks = marks_array[(marks_array <= 79) & (marks_array >= 50)]
+average_marks = marks_array[(marks_array >= 50) & (marks_array < 80)]
 low_marks = marks_array[marks_array < 50]
 percentage = excellent_marks.size / marks_array.size * 100
 
@@ -23,4 +23,4 @@ Excellent marks Count: {excellent_marks.size}
 Average marks Count: {average_marks.size}
 Low marks Count: {low_marks.size}""")
 
-print(f"Excellent Percentage: {percentage}")
+print(f"Excellent Percentage: {percentage}%")
