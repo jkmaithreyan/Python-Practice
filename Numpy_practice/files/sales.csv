@@ -1,0 +1,11 @@
+OrderID,City,Product,Quantity,Price
+101,Chennai,Laptop,2,50000
+102,Bangalore,Mouse,10,800
+103,Chennai,Keyboard,5,1500
+104,Vellore,Monitor,3,12000
+105,Bangalore,Laptop,1,50000
+106,Chennai,Mouse,8,800
+107,Vellore,Laptop,2,50000
+108,Bangalore,Keyboard,6,1500
+109,Chennai,Monitor,2,12000
+110,Vellore,Mouse,15,800
