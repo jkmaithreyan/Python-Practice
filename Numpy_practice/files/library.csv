@@ -1,0 +1,11 @@
+BorrowID,Student,Department,Book,DaysBorrowed,Fine,Rating
+201,Arun,IT,Python Basics,8,0,4.5
+202,Bala,CSE,Data Science,14,40,4.2
+203,Cathy,IT,Machine Learning,6,0,4.8
+204,Deepak,ECE,Python Basics,18,80,3.9
+205,Elena,CSE,SQL Fundamentals,10,0,4.6
+206,Farhan,ECE,Data Science,21,120,3.5
+207,Gokul,IT,SQL Fundamentals,5,0,4.9
+208,Hema,CSE,Machine Learning,16,60,4.1
+209,Isha,ECE,Python Basics,9,0,4.7
+210,Jay,IT,Data Science,25,160,3.2
