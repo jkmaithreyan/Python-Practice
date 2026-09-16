@@ -1,0 +1,11 @@
+CustomerID,Name,City,Orders,ItemsPurchased,TotalSpent,Satisfaction
+401,Arun,Chennai,5,12,8500,4.2
+402,Bala,Bangalore,2,4,3200,3.5
+403,Cathy,Chennai,8,20,14500,4.8
+404,Deepak,Vellore,1,2,1800,3.1
+405,Elena,Bangalore,6,15,9200,4.5
+406,Farhan,Chennai,3,7,4100,3.8
+407,Gokul,Vellore,10,25,18000,4.9
+408,Hema,Bangalore,4,9,5700,4.0
+409,Isha,Chennai,7,18,11200,4.6
+410,Jay,Vellore,2,5,2900,3.4
