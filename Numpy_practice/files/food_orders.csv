@@ -1,0 +1,11 @@
+OrderID,Customer,City,Restaurant,Items,OrderValue,DeliveryTime,Rating
+501,Arun,Chennai,FoodHub,3,850,32,4.5
+502,Bala,Bangalore,SpiceBox,1,320,48,3.8
+503,Cathy,Chennai,FoodHub,5,1450,28,4.8
+504,Deepak,Vellore,CurryHouse,2,560,55,3.2
+505,Elena,Bangalore,FoodHub,4,1100,35,4.6
+506,Farhan,Chennai,SpiceBox,2,680,42,4.0
+507,Gokul,Vellore,CurryHouse,6,1800,25,4.9
+508,Hema,Bangalore,SpiceBox,3,920,51,3.7
+509,Isha,Chennai,CurryHouse,4,1250,30,4.7
+510,Jay,Vellore,FoodHub,1,450,65,3.1
